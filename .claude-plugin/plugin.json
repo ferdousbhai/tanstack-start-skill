@@ -1,0 +1,5 @@
+{
+  "name": "tanstack-start",
+  "version": "0.0.1",
+  "description": "TanStack Start full-stack React framework with SSR, server functions, and Cloudflare deployment"
+}
