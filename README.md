@@ -1,3 +1,5 @@
+> **Archived:** This project is no longer maintained.
+
 # TanStack Start Plugin
 
 Full-stack React framework with SSR, server functions, and Vite bundling.
